@@ -24,7 +24,6 @@ Welcome to my GitHub profile! I'm a passionate learner of web development and co
 
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gopalkoli&layout=compact&hide_title=true&hide_border=true&theme=radical)
-
 ### Contributions
 ![Gopal's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=gopalkoli&hide_border=true&theme=radical)
 

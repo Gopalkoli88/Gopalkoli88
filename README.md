@@ -23,7 +23,12 @@ Welcome to my GitHub profile! I'm a passionate learner of web development and co
 ## 📊 More GitHub Stats
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gopalkoli&layout=compact&hide_title=true&hide_border=true&theme=radical)
+![Tech Stack](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=black)
+![Tech Stack](https://img.shields.io/badge/React-%2300D0F3?style=flat&logo=react&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/Python-%2338673D?style=flat&logo=python&logoColor=white)
 ### Contributions
 ![Gopal's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=gopalkoli&hide_border=true&theme=radical)
 

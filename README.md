@@ -20,6 +20,11 @@ Welcome to my GitHub profile! I'm a passionate learner of web development and co
 - **Tools**: MongoDB Atlas, Git, Docker, VS Code
 
 ## 📈 GitHub Stats
+
+![Gopal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gopalkoli&show_icons=true&hide_title=true&hide_border=true&count_private=true&hide=prs&include_all_commits=true&theme=radical)
+
+
+
 ## 📊 More GitHub Stats
 
 ### Most Used Languages

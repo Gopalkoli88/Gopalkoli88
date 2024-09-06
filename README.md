@@ -48,7 +48,9 @@ Welcome to my GitHub profile! I'm a passionate learner of web development and co
 ![Gopal's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=gopalkoli&hide_border=true&theme=radical)
 
 ## 👀 Profile Views
-![Profile Views](https://img.shields.io/badge/Profile%20Views-%E2%9C%94%20Not%20Available-lightgrey)
+
+![Profile Views](https://komarev.com/ghpvc/?username=gopalkoli)
+
 
 ## 🌟 Projects
 

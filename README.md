@@ -86,10 +86,10 @@ A planet selling site featuring a basic home page layout with navigation and CSS
 ## 📫 How to Reach Me
 
 - **Email**: [gopal_koli18@outlook.com](mailto:gopal_koli18@outlook.com)
-- **Instagram**: [gopal_koli01](https://www.instagram.com/gopal_koli01)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/) (Optional)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) (Optional)
-- **Website**: [Your Website](https://yourwebsite.com) (Optional)
+- **Instagram**:  [gopal_koli01](https://www.instagram.com/gopal_koli01)
+- **LinkedIn**: <!-- [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/) (Optional)-->
+- **Twitter**: <!-- [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) (Optional)-->
+- **Website**: <!-- [Your Website](https://yourwebsite.com) (Optional)-->
 
 Feel free to check out my repositories and get in touch if you’d like to collaborate or just say hi!
 

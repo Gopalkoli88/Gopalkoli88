@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate learner of web development and co
 
 ## 🚀 About Me
 
-- 🔭 **Currently studying** at [UCCC & SPBCBA & SDHGCBCA & IT, UDHNA, SURAT](https://www.google.com/maps/place/UDHNA,+SURAT)
-- 🌱 **Learning** web development and competitive coding
+- 🔭 **Currently studying** at [UCCC & SPBCBA & SDHGCBCA & IT ,UDHNA, SURAT]
+- - 🌱 **Learning** web development and competitive coding
 - 👯 **Looking to collaborate** on full-stack projects and coding challenges
 - 🤔 **Seeking help with** advanced web development concepts and competitive programming
 - 💬 **Ask me about** web development, competitive coding, and building complex applications
@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate learner of web development and co
 ### Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white)
-<!--![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white)-->
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📈 GitHub Stats
@@ -52,14 +52,29 @@ Welcome to my GitHub profile! I'm a passionate learner of web development and co
 
 ## 🌟 Projects
 
-### [Project 1](https://github.com/gopalkoli/project-1)
-A brief description of Project 1.
+### [Front-end Project 1](https://calm-sunflower-9f41f1.netlify.app/)
+A front-end project built with Tailwind CSS, showcasing my skills in creating responsive and visually appealing interfaces.
 
-### [Project 2](https://github.com/gopalkoli/project-2)
-A brief description of Project 2.
+### [Front-end Project 2](https://thunderous-horse-600c21.netlify.app/)
+Another Tailwind CSS project, demonstrating my ability to design and develop modern, responsive websites with clean and efficient code.
 
-### [Project 3](https://github.com/gopalkoli/project-3)
-A brief description of Project 3.
+### [Amazon Clone](https://gopalkoli88.github.io/amazon-clone/)
+A project that replicates the Amazon home page layout using HTML and CSS. 
+
+### [Gopal's Todo](https://gopalkoli88.github.io/gopal-s-todo/)
+A simple to-do application with local storage, allowing users to add, remove, and manage tasks.
+
+### [Tailwind Project - Basic Home Page](https://gopalkoli88.github.io/Tailwind_project_basic_home_page/)
+A home page design built with Tailwind CSS, featuring a clean navbar and layout.
+
+### [Pricing Cards](https://gopalkoli88.github.io/pricing-cards/)
+A responsive pricing card component designed with CSS.
+
+### [Email Subscription](https://gopalkoli88.github.io/email-subscribe/)
+A front-end project for an email subscription form, showcasing modern design and form handling.
+
+### [Planet Selling E-Commerce](https://gopalkoli88.github.io/-only_desktop-screen-PLANET_SELLING-E-COMMERCE-HTML-CSS-/)
+A planet selling site featuring a basic home page layout with navigation and CSS styling.
 
 ## 📝 Blog Posts
 

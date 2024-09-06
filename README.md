@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate learner of web development and co
 
 ## 🚀 About Me
 
-- 🔭 **Currently studying** at [UCCC & SPBCBA & SDHGCBCA & IT ,UDHNA, SURAT]
-- - 🌱 **Learning** web development and competitive coding
+- 🔭 **Currently studying** at [UCCC & SPBCBA & SDHGCBCA & IT, UDHNA, SURAT](https://www.google.com/maps/place/UDHNA,+SURAT)
+- 🌱 **Learning** web development and competitive coding
 - 👯 **Looking to collaborate** on full-stack projects and coding challenges
 - 🤔 **Seeking help with** advanced web development concepts and competitive programming
 - 💬 **Ask me about** web development, competitive coding, and building complex applications
@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm a passionate learner of web development and co
 ![Gopal's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=gopalkoli&hide_border=true&theme=radical)
 
 ## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=gopalkoli)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-%E2%9C%94%20Not%20Available-lightgrey)
 
 ## 🌟 Projects
 

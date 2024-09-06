@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate learner of web development and co
 - 🤔 **Seeking help with** advanced web development concepts and competitive programming
 - 💬 **Ask me about** web development, competitive coding, and building complex applications
 - 📫 **Contact me**: [gopal_koli18@outlook.com](mailto:gopal_koli18@outlook.com)
-- 😄 **Pronouns**: He/Him
+- 😄 **Pronouns**: He
 - ⚡ **Fun fact**: I enjoy solving complex problems and building innovative solutions
 
 ## 🛠️ Technologies & Tools

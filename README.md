@@ -21,7 +21,10 @@ Welcome to my GitHub profile! I'm a passionate learner of web development and co
 
 ## 📈 GitHub Stats
 
-![Gopal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gopalkoli&show_icons=true&hide_title=true&hide_border=true&count_private=true&hide=prs&include_all_commits=true&theme=radical)
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=gopalkoli)
+
 
 ## 🌟 Projects
 
